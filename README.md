@@ -11,8 +11,9 @@
   <br />
   <br />
   <h4>🐻 About Me 🐻</h4>
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/hyeun9991@gmail.com-black?style=flat-square&logo=gmail&logoColor=white"/>
+  <a src="https://velog.io/@hyeun9991">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a> 
+  <a  src="mailto:hyeun9991@gmail.com"><img src="https://img.shields.io/badge/hyeun9991@gmail.com-black?style=flat-square&logo=gmail&logoColor=white"/></a >
   <br />
   <br />
 </div>
