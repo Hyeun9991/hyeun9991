@@ -1,6 +1,7 @@
 ## Park Eunhye
 
-Junior web front-end developer.
+안녕하세요🙂 
+개발자 지망생 박은혜입니다.
 
 ### 👩🏻‍💻 Tech
 
